@@ -11,4 +11,4 @@ export {
     store
 };
 
-export * from "./thunks/fetchUsers";
+export * from "./thunks";

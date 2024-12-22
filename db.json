@@ -1,5 +1,30 @@
 {
-    "users": [],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": "e4ae",
+      "name": "Fannie Deckow PhD"
+    },
+    {
+      "id": "acd3",
+      "name": "Geraldine Krajcik"
+    },
+    {
+      "id": "d482",
+      "name": "Susan Langosh"
+    },
+    {
+      "id": "b5dc",
+      "name": "Ms. Gertrude Ziemann"
+    },
+    {
+      "id": "7a7f",
+      "name": "Tasha Lockman"
+    },
+    {
+      "id": "107d",
+      "name": "Clifford Walsh"
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
